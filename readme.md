@@ -13,7 +13,7 @@ _This project will take a number from a user and return a range of numbers from 
 * _Numbers divisible by 15 are replaced with "pingpong"_
 
 ## Setup/Installation Requirements
-
+* _Please donwload or clone this link https://github.com/phat14191/Project-DingDong-Week3 and enjoying to play with your number.
 * _Open ping-pong.html in your browser_
 * _Enter a number into the field_
 * _Click the button labeled 'Ping Pong!'_
